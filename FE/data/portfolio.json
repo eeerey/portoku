@@ -1,0 +1,92 @@
+{
+  "profile": {
+    "fullName": "Raihan Diandra",
+    "title": "Full Stack Developer",
+    "subTitle": "Saya fokus mengembangkan aplikasi web modern, sistem digital, UI/UX, dan teknologi berbasis solusi.",
+    "aboutMe": [
+      "Saya adalah seorang pengembang perangkat lunak yang memiliki ketertarikan dalam membangun aplikasi modern dan solusi digital.",
+      "Saya senang mengeksplorasi teknologi baru, membangun user experience yang baik, serta mengembangkan sistem yang dapat memberikan manfaat nyata."
+    ],
+    "photos": ["/raihan.png"]
+  },
+  "highlights": [
+    {
+      "id": 1,
+      "title": "Focus",
+      "value": "Full Stack Dev",
+      "iconName": "Code2",
+      "position": "-bottom-4 -left-6"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "school": "SMA Muhammadyah 1 Klaten",
+      "desc": "Siswa SMA Muhammadyah 1 Klaten jurusan MIPA dari 2021 hingga 2024"
+    },
+    {
+      "id": 2,
+      "school": "Universitas Sebelas Maret (UNS)",
+      "desc": "Informatics Engineering (Teknik Informatika)"
+    }
+  ],
+  "skills": [
+    { "id": 1, "name": "React.js", "iconName": "SiReact" },
+    { "id": 2, "name": "Next.js", "iconName": "SiNextdotjs" },
+    { "id": 3, "name": "Node.js", "iconName": "SiNodedotjs" },
+    { "id": 4, "name": "Express.js", "iconName": "SiExpress" },
+    { "id": 5, "name": "Tailwind CSS", "iconName": "SiTailwindcss" },
+    { "id": 6, "name": "MySQL", "iconName": "SiMysql" },
+    { "id": 7, "name": "Git", "iconName": "SiGit" },
+    { "id": 8, "name": "Figma", "iconName": "SiFigma" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "HepCare Platform",
+      "desc": "Platform web dan mobile untuk awareness dan monitoring vaksinasi hepatitis.",
+      "imageUrl": "/hepcare.png",
+      "projectUrl": "https://github.com/eeerey"
+    },
+    {
+      "id": 2,
+      "title": "SIMTA UNS Madiun",
+      "desc": "Sistem Informasi Manajemen Tugas Akhir dan bimbingan mahasiswa berbasis web.",
+      "imageUrl": "/simta.png",
+      "projectUrl": "https://github.com/eeerey"
+    },
+    {
+      "id": 3,
+      "title": "photobox",
+      "desc": "website untuk photobox online yang bisa di akses secara free",
+      "imageUrl": "/photobox.png",
+      "projectUrl": "https://photoboxx.vercel.app/"
+    }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "platform": "GitHub",
+      "iconName": "SiGithub",
+      "url": "https://github.com/eeerey"
+    },
+    {
+      "id": 2,
+      "platform": "LinkedIn",
+      "iconName": "SiLinkedin",
+      "url": "https://www.linkedin.com/in/raihan-surya-73822b32a/"
+    },
+    {
+      "id": 3,
+      "platform": "Instagram",
+      "iconName": "SiInstagram",
+      "url": "https://www.instagram.com/reydraku"
+    },
+    {
+      "id": 3,
+      "platform": "Instagram",
+      "iconName": "SiInstagram",
+      "url": "https://www.instagram.com/design_novalux"
+    }
+  ]
+}
