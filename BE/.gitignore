@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# Environment variables (PENTING AGAR JWT & PASSWORD DB AMAN!)
+.env
+.env.*
+
+# Logs
+npm-debug.log*
